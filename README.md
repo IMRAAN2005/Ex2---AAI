@@ -3,7 +3,7 @@
 <h1 align =center> IMPLEMENTATION OF EXACT INFERENCE METHOD OF BAYESIAN NETWORK </h1>
 <H3> Name:SHAIK MAHAMMAD IMRAAN </H3>
 <H3>Register No:212223100053.</H3>
-<H3> Experiment 1</H3>
+<H3> Experiment 2</H3>
 <H3>DATE:10-04-25</H3>
 
 ## AIM:
