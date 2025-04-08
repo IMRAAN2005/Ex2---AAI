@@ -4,7 +4,7 @@
 <H3> Name:SHAIK MAHAMMAD IMRAAN </H3>
 <H3>Register No:212223100053.</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:08-04-25</H3>
+<H3>DATE:10-04-25</H3>
 
 ## AIM:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
